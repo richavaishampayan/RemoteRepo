@@ -1,2 +1,2 @@
 # RemoteRepo
-For testing pupose
+For testing pupose only
